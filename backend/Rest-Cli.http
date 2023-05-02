@@ -1,0 +1,43 @@
+//Api "REST Client" para manejar las peticiones # //Api "REST Client" para manejar las peticiones 
+@api = http://localhost:3000/break
+
+GET {{api}}/home
+
+###
+GET {{api}}/400
+
+###
+GET {{api}}/count   
+
+###
+POST {{api}}
+Content-Type: application/json
+
+{
+    "nombre_ejercicio" : "PRUEBA",
+    "dificultad_ejercicio" : "PRUEBA",
+    "repeticiones_ejercicio" : "PRUEBA",
+    "grupo_muscular" : "PRUEBA",
+    "equipo_entrenamiento" : "PRUEBA",
+    "url" : "PRUEBA",
+    "posicion_inicial" : "PRUEBA",
+    "descripcion_ejercicio" : "PRUEBA"
+}
+    
+###
+DELETE {{api}}/400
+
+###
+PUT {{api}}/400
+Content-Type: application/json
+
+{
+    "nombre_ejercicio" : "PRUEBA 2",
+    "dificultad_ejercicio" : "PRUEBA",
+    "repeticiones_ejercicio" : "PRUEBA",
+    "grupo_muscular" : "PRUEBA",
+    "equipo_entrenamiento" : "PRUEBA",
+    "url" : "PRUEBA",
+    "posicion_inicial" : "PRUEBA",
+    "descripcion_ejercicio" : "PRUEBA"
+}

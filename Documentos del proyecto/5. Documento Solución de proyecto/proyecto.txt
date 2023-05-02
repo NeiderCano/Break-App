@@ -1,0 +1,14 @@
+Debe tener:
+
+5.1 Titulo/nombre del proyecto
+5.2 Integrantes
+5.3 Objetivos generales
+5.4 Objetivos específicos
+5.5 Justificación
+5.6 Alcance
+5.7 Impactos
+5.8 Presupuestos y gastos de desarrollo
+5.9 Público objetivo
+5.10 Estrategias de marketing y publicidad, plataformas
+5.11 Legislación (datos, privacidad y geolocalización)
+5.12 Propiedad intelectual aplicable al producto de software. 

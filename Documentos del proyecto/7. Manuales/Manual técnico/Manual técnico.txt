@@ -1,0 +1,6 @@
+1 Objetivo.
+8.2 Alcances del sistema
+8.3 Manual de Normas, políticas y procedimientos (en las que se basa el sistema para su
+implementación)
+8.4 Descripción de bases de datos y diagramas de relación.
+8.5 Diseño de reportes y pantallas.

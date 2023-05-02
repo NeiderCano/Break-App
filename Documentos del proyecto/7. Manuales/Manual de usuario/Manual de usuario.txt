@@ -1,0 +1,5 @@
+7.1 Introducción
+7.2 Objetivos del sistema
+7.3 Guía de uso
+7.4 Sección de solución de problemas
+7.5 información de soporte técnico (E-mail o teléfonos))
